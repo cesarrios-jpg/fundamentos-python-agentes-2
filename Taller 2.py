@@ -29,6 +29,7 @@ historial_chat = [
     }
 ]
 
+
 # --- 2. VARIABLES DE CONTROL ---
 
 sistema_activo = True    # Se usa para controlar la permanencia en el bucle principal 'while'
