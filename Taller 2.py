@@ -29,8 +29,7 @@ historial_chat = [
     }
 ]
 
-
-# --- 2. VARIABLES DE CONTROL ---
+# --- 2. VARIABLES DE CONTROL  PARA EL BOT---
 
 sistema_activo = True    # Se usa para controlar la permanencia en el bucle principal 'while'
 intentos = 0             # Contador de intentos para el login 
