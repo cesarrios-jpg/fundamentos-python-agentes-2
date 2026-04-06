@@ -1,4 +1,0 @@
-Visual Studio Code
-
-C:\Users\Cesar Rios\AppData\Local\Programs\Microsoft VS Code
-Visual Studio Code
